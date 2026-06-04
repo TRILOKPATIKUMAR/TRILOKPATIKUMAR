@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Profile Badges -->
-![](https://komarev.com/ghpvc/?username=TRILOKPATI&color=58a6ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/TRILOKPATI?style=flat-square&color=58a6ff&label=Followers)](https://github.com/TRILOKPATI)
+![](https://komarev.com/ghpvc/?username=TRILOKPATIKUMAR&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/TRILOKPATIKUMAR?style=flat-square&color=58a6ff&label=Followers)](https://github.com/TRILOKPATIKUMAR)
 [![Email](https://img.shields.io/badge/Email-tpkumar.tech%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white)](mailto:tpkumar.tech@gmail.com)
 
 </div>
@@ -84,13 +84,13 @@ currently   :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRILOKPATI&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRILOKPATI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TRILOKPATIKUMAR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRILOKPATIKUMAR&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TRILOKPATI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TRILOKPATIKUMAR&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 ---
