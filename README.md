@@ -42,14 +42,13 @@ currently   :
 
 ## 🚀 Ventures & Projects
 
-| Venture | Domain |
-|---|---|
-| **Loyl Pixel** | Digital Products & Tech |
-| **Azadpay India Fintech** | Fintech / Payments |
-| **Fintech Ship Network Online Channel Ltd** | Fintech SaaS |
-| **LoylPay Payment India** | Crypto & Payment Gateway |
-| **SYSIB Platform** | Crypto Structured Earning |
-| **Daily24x7** | Current Affairs & Political Media |
+| Venture | Domain | Link |
+|---|---|---|
+| **ZeroX Technologies** | Web, Software, Blockchain & AI Development | [🌐 zeroxtechnologies.com](https://zeroxtechnologies.com/) |
+| **PayQora** | Privacy-First Crypto Payment Gateway (No KYC · P2P Blockchain Settlement) | [🌐 payqora.com](https://www.payqora.com/) |
+| **ApiFree.live** | Chatbot Platform — Embed AI trained on your own content | [🌐 apifree.live](https://apifree.live/) |
+| **Advocacy Mantra** | AI-Enabled Marketplace for Advocates & Legal Professionals | [🌐 advocacymantra.com](https://www.advocacymantra.com/) |
+
 
 ---
 
